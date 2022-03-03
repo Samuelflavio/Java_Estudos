@@ -16,7 +16,7 @@ public class ExemploInstanceof {
 	+ -
 	
 	/* Exemplo */
-	Com a procedencia definida pelo java
+	/*Com a procedencia definida pelo java*/
 	int c = 4/2+4;
 	/*Neste caso, primeiro ocorrerá a divisão e após a soma.*/
 	
